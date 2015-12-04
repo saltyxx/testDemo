@@ -11,7 +11,7 @@ widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained   # {standalone, draft}
 knit        : slidify::knit2slides
 github:
-   user: xianxian
+   user: saltyxx
    repo: testDemo
 ---
 
